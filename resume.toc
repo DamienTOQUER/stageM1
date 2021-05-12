@@ -1,6 +1,0 @@
-\contentsline {section}{\numberline {1}Résolution de l'équation de Schrödinger}{1}{section.1}%
-\contentsline {subsection}{\numberline {1.1}Méthode de Crank-Nicolson}{1}{subsection.1.1}%
-\contentsline {subsection}{\numberline {1.2}Propagation d'un paquet d'onde gaussien libre}{1}{subsection.1.2}%
-\contentsline {subsection}{\numberline {1.3}Propagation d'un paquet d'onde gaussien non libre}{2}{subsection.1.3}%
-\contentsline {subsubsection}{\numberline {1.3.1}Potentiel harmonique}{2}{subsubsection.1.3.1}%
-\contentsline {subsection}{\numberline {1.4}Méthode du split-operator}{3}{subsection.1.4}%
